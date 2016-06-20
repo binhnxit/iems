@@ -1,3 +1,8 @@
+# Run project ies
+1. pull or download https://github.com/binhnxit/iems/
+2. crreate database name: ies
+3. import all data in https://github.com/binhnxit/iems/sql to mysql
+4. Run ies on localhost
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
@@ -25,3 +30,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
